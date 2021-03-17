@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[3],{"/fmy":function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return s}));var i=e("kSEt"),c=e.n(i),r=e("nKUr");function s(){return Object(r["jsx"])("div",{children:Object(r["jsx"])("h1",{className:c.a.title,children:"Page index"})})}},kSEt:function(t,n,e){t.exports={title:"title___cYF1S"}}}]);
